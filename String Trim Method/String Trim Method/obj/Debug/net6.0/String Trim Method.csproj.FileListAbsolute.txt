@@ -1,0 +1,15 @@
+D:\desktop\programs\C#\String Trim Method\String Trim Method\bin\Debug\net6.0\String Trim Method.exe
+D:\desktop\programs\C#\String Trim Method\String Trim Method\bin\Debug\net6.0\String Trim Method.deps.json
+D:\desktop\programs\C#\String Trim Method\String Trim Method\bin\Debug\net6.0\String Trim Method.runtimeconfig.json
+D:\desktop\programs\C#\String Trim Method\String Trim Method\bin\Debug\net6.0\String Trim Method.dll
+D:\desktop\programs\C#\String Trim Method\String Trim Method\bin\Debug\net6.0\String Trim Method.pdb
+D:\desktop\programs\C#\String Trim Method\String Trim Method\obj\Debug\net6.0\String Trim Method.csproj.AssemblyReference.cache
+D:\desktop\programs\C#\String Trim Method\String Trim Method\obj\Debug\net6.0\String Trim Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\programs\C#\String Trim Method\String Trim Method\obj\Debug\net6.0\String Trim Method.AssemblyInfoInputs.cache
+D:\desktop\programs\C#\String Trim Method\String Trim Method\obj\Debug\net6.0\String Trim Method.AssemblyInfo.cs
+D:\desktop\programs\C#\String Trim Method\String Trim Method\obj\Debug\net6.0\String Trim Method.csproj.CoreCompileInputs.cache
+D:\desktop\programs\C#\String Trim Method\String Trim Method\obj\Debug\net6.0\String Trim Method.dll
+D:\desktop\programs\C#\String Trim Method\String Trim Method\obj\Debug\net6.0\refint\String Trim Method.dll
+D:\desktop\programs\C#\String Trim Method\String Trim Method\obj\Debug\net6.0\String Trim Method.pdb
+D:\desktop\programs\C#\String Trim Method\String Trim Method\obj\Debug\net6.0\String Trim Method.genruntimeconfig.cache
+D:\desktop\programs\C#\String Trim Method\String Trim Method\obj\Debug\net6.0\ref\String Trim Method.dll
